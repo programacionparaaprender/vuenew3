@@ -1,10 +1,17 @@
-# vueroute2
+# vuenew3
 
 ### curso
 >- https://www.udemy.com/course/vue-3-composition-api-vuex-api-rest-rick-and-morty/learn/lecture/27781596?start=0#overview
 
 ### forma de crear el proyecto
->- 
+>- vue create vuenew3
+>- seleccionar opción manual
+>- seleccionar babel, vuex, css preposesors, de seleccionar linter
+>- seleccionar versión 3 de vue
+>- seleccionar opción  node sass
+>- seleccionar opción 1 archivos dedicados
+>- dar no al pedir guardar configuración
+
 
 
 ### peticiones get usando fetch
